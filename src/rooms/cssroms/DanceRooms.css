@@ -1,0 +1,24 @@
+/* DanceRooms.css */
+
+
+.event-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+a {
+    color: #3498db; /* цвет ссылки (голубой) */
+    text-decoration: none;
+}
+/* DanceRooms.css */
+
+ul {
+    padding-left: 20px; /* Отступ для списка */
+}
+
+li {
+    margin-bottom: 5px; /* Отступ между элементами списка */
+}

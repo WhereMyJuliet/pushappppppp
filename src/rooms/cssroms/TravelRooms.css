@@ -1,0 +1,55 @@
+/* TravelRoom.css */
+.room-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.room-description {
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.first-event {
+    background-color: #ffd700; /* Желтый фон для первого блока */
+    color: black;
+    border: 2px solid #333; /* Черная рамка для первого блока */
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.event {
+    width: 600px;
+    margin: 0 auto; /* Центрирование остальных блоков */
+    background-color: #f4f4f4;
+    color: black;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.event-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.date {
+    color: #888;
+    font-size: 14px;
+}
+
+.description {
+    color: black;
+}
+
+.link-container {
+    margin-top: 15px;
+}
+
+a {
+    color: #3498db; /* Цвет ссылки (голубой) */
+    text-decoration: none;
+}
